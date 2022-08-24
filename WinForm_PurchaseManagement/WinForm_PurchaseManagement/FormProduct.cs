@@ -192,7 +192,14 @@ namespace WinForm_PurchaseManagement
 
         private void btnThoat_Click(object sender, EventArgs e)
         {
-
+            if (MessageBox.Show("Bạn chắc chứ?", "Thoát", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                this.Close();
+            }
+            else
+            {
+                return;
+            }
         }
     }
 }

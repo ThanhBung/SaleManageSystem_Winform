@@ -65,3 +65,4 @@ E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\
 E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\WinForm_PurchaseManagement\obj\Debug\net5.0-windows\WinForm_PurchaseManagement.FormMain.resources
 E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\WinForm_PurchaseManagement\obj\Debug\net5.0-windows\WinForm_PurchaseManagement.FormCustomer.resources
 E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\WinForm_PurchaseManagement\obj\Debug\net5.0-windows\WinForm_PurchaseManagement.FormProduct.resources
+E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\WinForm_PurchaseManagement\obj\Debug\net5.0-windows\WinForm_PurchaseManagement.FormSale.resources

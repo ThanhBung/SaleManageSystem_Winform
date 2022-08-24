@@ -31,6 +31,7 @@ namespace WinForm_PurchaseManagement
         {
             this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.tbMaHangCu = new System.Windows.Forms.TextBox();
             this.cbDonViTinh = new System.Windows.Forms.ComboBox();
             this.tbGiaBan = new System.Windows.Forms.TextBox();
             this.tbTenHang = new System.Windows.Forms.TextBox();
@@ -49,7 +50,6 @@ namespace WinForm_PurchaseManagement
             this.btnMoi = new System.Windows.Forms.Button();
             this.label8 = new System.Windows.Forms.Label();
             this.dataGridViewCus = new System.Windows.Forms.DataGridView();
-            this.tbMaHangCu = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewCus)).BeginInit();
@@ -84,6 +84,14 @@ namespace WinForm_PurchaseManagement
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(678, 112);
             this.panel1.TabIndex = 1;
+            // 
+            // tbMaHangCu
+            // 
+            this.tbMaHangCu.Location = new System.Drawing.Point(105, 19);
+            this.tbMaHangCu.Name = "tbMaHangCu";
+            this.tbMaHangCu.Size = new System.Drawing.Size(188, 27);
+            this.tbMaHangCu.TabIndex = 6;
+            this.tbMaHangCu.Visible = false;
             // 
             // cbDonViTinh
             // 
@@ -304,14 +312,6 @@ namespace WinForm_PurchaseManagement
             this.dataGridViewCus.TabIndex = 5;
             this.dataGridViewCus.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridViewCus_CellClick);
             // 
-            // tbMaHangCu
-            // 
-            this.tbMaHangCu.Location = new System.Drawing.Point(105, 19);
-            this.tbMaHangCu.Name = "tbMaHangCu";
-            this.tbMaHangCu.Size = new System.Drawing.Size(188, 27);
-            this.tbMaHangCu.TabIndex = 6;
-            this.tbMaHangCu.Visible = false;
-            // 
             // FormProduct
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
@@ -325,7 +325,7 @@ namespace WinForm_PurchaseManagement
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.label1);
             this.Name = "FormProduct";
-            this.Text = "KHÁCH HÀNG";
+            this.Text = "MẶT HÀNG";
             this.Load += new System.EventHandler(this.FormProduct_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
