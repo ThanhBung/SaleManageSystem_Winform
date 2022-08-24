@@ -16,5 +16,13 @@ namespace WinForm_PurchaseManagement
         {
             InitializeComponent();
         }
+
+        private void btnThoat_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        //select MaChiTietHD, cthd.MaHD,MaHang,Soluong, MaKH, NgayHD from tblChiTietHD cthd
+        //inner join tblHoadon hd on cthd.MaHD = hd.MaHD
     }
 }
