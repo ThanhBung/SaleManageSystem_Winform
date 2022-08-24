@@ -45,7 +45,15 @@ namespace WinForm_PurchaseManagement
 
         private void báoCáoToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            FormReport formReport = new FormReport();
+            formReport.FormClosed += new FormClosedEventHandler(FormReport_FormClosed);
+            formReport.Show();
+            this.Hide();
+        }
 
+        private void FormReport_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            this.Show();
         }
 
         private void cậpNhậtToolStripMenuItem_Click(object sender, EventArgs e)
@@ -80,6 +88,14 @@ namespace WinForm_PurchaseManagement
         private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void báoCáoBánHàngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FormReport formReport = new FormReport();
+            formReport.FormClosed += new FormClosedEventHandler(FormReport_FormClosed);
+            formReport.Show();
+            this.Hide();
         }
     }
 }

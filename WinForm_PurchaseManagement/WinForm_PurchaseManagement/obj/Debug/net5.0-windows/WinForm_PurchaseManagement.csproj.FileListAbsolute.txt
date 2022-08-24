@@ -5,7 +5,6 @@ E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\
 E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\WinForm_PurchaseManagement\bin\Debug\net5.0-windows\WinForm_PurchaseManagement.dll
 E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\WinForm_PurchaseManagement\bin\Debug\net5.0-windows\ref\WinForm_PurchaseManagement.dll
 E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\WinForm_PurchaseManagement\bin\Debug\net5.0-windows\WinForm_PurchaseManagement.pdb
-E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\WinForm_PurchaseManagement\obj\Debug\net5.0-windows\WinForm_PurchaseManagement.csproj.AssemblyReference.cache
 E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\WinForm_PurchaseManagement\obj\Debug\net5.0-windows\WinForm_PurchaseManagement.FormLogin.resources
 E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\WinForm_PurchaseManagement\obj\Debug\net5.0-windows\WinForm_PurchaseManagement.Properties.Resources.resources
 E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\WinForm_PurchaseManagement\obj\Debug\net5.0-windows\WinForm_PurchaseManagement.csproj.GenerateResource.cache
@@ -67,3 +66,5 @@ E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\
 E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\WinForm_PurchaseManagement\obj\Debug\net5.0-windows\WinForm_PurchaseManagement.FormProduct.resources
 E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\WinForm_PurchaseManagement\obj\Debug\net5.0-windows\WinForm_PurchaseManagement.FormSale.resources
 E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\WinForm_PurchaseManagement\obj\Debug\net5.0-windows\WinForm_PurchaseManagement.FormReport.resources
+E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\WinForm_PurchaseManagement\obj\Debug\net5.0-windows\WinForm_PurchaseManagement.csproj.AssemblyReference.cache
+E:\FPTuniversity\PRN211\Block5_PRN211\Block5_Project\WinForm_PurchaseManagement\WinForm_PurchaseManagement\obj\Debug\net5.0-windows\WinForm_PurchaseManagement.Form1.resources

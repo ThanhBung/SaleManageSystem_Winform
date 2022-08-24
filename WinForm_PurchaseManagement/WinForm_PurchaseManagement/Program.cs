@@ -17,7 +17,7 @@ namespace WinForm_PurchaseManagement
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormReport());
+            Application.Run(new FormLogin());
         }
     }
 }
